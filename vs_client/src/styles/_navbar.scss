@@ -1,0 +1,19 @@
+nav {
+    opacity: 1 !important;
+    background-color: #dbdbdb29;
+    z-index: 10;
+
+    form {
+        // opacity: .5 !important;
+        background-color: #dbdbdb29;
+
+    }
+}
+
+.profileImg {
+    cursor: pointer;
+
+    :hover {
+        opacity: 0.3;
+    }
+}

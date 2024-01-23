@@ -1,0 +1,9 @@
+::1 - - [18/Jan/2024:08:15:09 +0000] "POST /api/users HTTP/1.1" 400 18
+::1 - - [18/Jan/2024:08:24:45 +0000] "GET /api/users/65a8bc8a50f39afef50afde2 HTTP/1.1" 400 12
+::1 - - [18/Jan/2024:08:24:59 +0000] "GET /api/users/65a8bc8a50f39afef50afde2 HTTP/1.1" 400 12
+::1 - - [18/Jan/2024:08:25:48 +0000] "GET /api/users/65a8bc8a50f39afef50afde2 HTTP/1.1" 400 12
+::1 - - [18/Jan/2024:08:25:48 +0000] "GET /api/users/65a8bc8a50f39afef50afde2 HTTP/1.1" 400 12
+::1 - - [18/Jan/2024:08:25:53 +0000] "GET /api/users/65a8bc8a50f39afef50afde2 HTTP/1.1" 400 12
+::1 - - [18/Jan/2024:08:25:53 +0000] "GET /api/users/65a8bc8a50f39afef50afde2 HTTP/1.1" 400 12
+::1 - - [18/Jan/2024:08:26:17 +0000] "GET /api/users/65a8bc8a50f39afef50afde2 HTTP/1.1" 400 12
+::1 - - [18/Jan/2024:08:26:17 +0000] "GET /api/users/65a8bc8a50f39afef50afde2 HTTP/1.1" 400 12

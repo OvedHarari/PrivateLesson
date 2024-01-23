@@ -1,0 +1,16 @@
+.teacher-card {
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    .btn {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+
+    .btn:hover {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+}
